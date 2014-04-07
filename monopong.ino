@@ -18,8 +18,6 @@ void setup(){
   
   strip.setBrightness(64);
   
-  pinMode(2, INPUT);
-  pinMode(3, INPUT);
   pinMode(4, INPUT);
   pinMode(5, INPUT);
 }
