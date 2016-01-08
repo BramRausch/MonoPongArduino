@@ -1,4 +1,0 @@
-Arduino
-=======
-
-Arduino programs
